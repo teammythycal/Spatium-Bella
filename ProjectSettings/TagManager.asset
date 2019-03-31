@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerShield
+  - MovementNode
+  - Projectile
+  - Indestructable
+  - Destructible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 0
+    uniqueID: 3351331999
+    locked: 0
+  - name: Background 1
+    uniqueID: 2134671753
+    locked: 0
+  - name: Background 2 (L3 Tilemap BG)
+    uniqueID: 692650395
+    locked: 0
+  - name: Background 3 (L3 Tilemap Non Collidable)
+    uniqueID: 3485171327
+    locked: 0
+  - name: Background 4 (L3 Tilemap Collidable)
+    uniqueID: 979993221
+    locked: 0
+  - name: Background 5 (Projectiles)
+    uniqueID: 2278620971
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 3677754103
+    locked: 0
+  - name: Foreground 1 (Clouds)
+    uniqueID: 3297105527
+    locked: 0
+  - name: Foreground 0 (GUI)
+    uniqueID: 3428428817
+    locked: 0

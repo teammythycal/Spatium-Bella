@@ -1,1 +1,1 @@
-Spatium-Bella
+Spatium Bella
